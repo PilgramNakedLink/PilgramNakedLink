@@ -1,0 +1,19 @@
+# misc
+.DS_Store
+rustfmt.toml
+.env
+
+# rust
+/target
+
+# More information here https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html
+Cargo.lock
+
+# sqlite
+tracer.db
+
+*.csv
+/output
+/export
+/radar/svguploads
+/radar/traces
