@@ -1,0 +1,1246 @@
+source,destination,trace,ttl,query,query_result,addr,rtt,hop_mean_ms,hop_median_ms,city,country,country_code,country_code_iso3,country_capital,region,region_code,latitude,longitude,timezone,utc_offset,asn,org
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,1,1,success,10.1.10.1,8,5,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,1,2,success,10.1.10.1,4,5,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,1,3,success,10.1.10.1,3,5,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,2,1,success,96.120.37.81,20,21,20,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,2,2,success,96.120.37.81,31,21,20,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,2,3,success,96.120.37.81,13,21,20,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,3,1,success,96.110.138.53,15,29,15,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,3,2,success,96.110.138.53,58,29,15,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,3,3,success,96.110.138.53,15,29,15,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,4,1,success,96.108.23.141,21,18,19,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,4,2,success,96.108.23.141,19,18,19,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,4,3,success,96.108.23.141,14,18,19,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,5,1,success,68.86.165.113,38,22,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,5,2,success,68.86.165.113,15,22,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,5,3,success,68.86.165.113,14,22,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,6,1,success,96.110.5.142,18,26,22,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,6,2,success,96.110.5.142,38,26,22,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,6,3,success,96.110.5.142,22,26,22,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,7,1,success,96.110.45.77,16,18,16,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,7,2,success,96.110.45.73,23,18,16,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,7,3,success,96.110.45.69,16,18,16,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,8,1,success,96.110.32.174,15,15,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,8,2,success,96.110.32.178,17,15,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,8,3,success,96.110.32.182,14,15,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,9,1,success,96.87.9.146,15,20,16,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,9,2,success,96.87.9.146,28,20,16,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,9,3,success,96.87.9.146,16,20,16,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,10,1,success,89.221.37.158,58,60,59,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,10,2,success,89.221.37.130,59,60,59,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,10,3,success,89.221.37.130,63,60,59,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,11,1,success,89.221.37.139,115,129,122,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,11,2,success,89.221.37.139,122,129,122,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,11,3,success,89.221.37.139,149,129,122,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,12,1,success,200.0.16.21,123,134,123,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,12,2,success,200.0.16.21,157,134,123,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,12,3,success,200.0.16.21,122,134,123,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,13,1,success,200.0.16.65,116,120,122,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,13,2,success,200.0.16.65,122,120,122,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,13,3,success,200.0.16.65,122,120,122,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,3cefd9fe-3cb9-4ce7-b5dd-59618318c580,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,1,1,success,10.1.10.1,14,7,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,1,2,success,10.1.10.1,4,7,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,1,3,success,10.1.10.1,4,7,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,2,1,success,96.120.37.81,18,15,15,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,2,2,success,96.120.37.81,13,15,15,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,2,3,success,96.120.37.81,15,15,15,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,3,1,success,96.110.138.53,12,18,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,3,2,success,96.110.138.53,27,18,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,3,3,success,96.110.138.53,14,18,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,4,1,success,96.108.23.141,13,14,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,4,2,success,96.108.23.141,12,14,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,4,3,success,96.108.23.141,18,14,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,5,1,success,68.86.165.113,14,20,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,5,2,success,68.86.165.113,14,20,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,5,3,success,68.86.165.113,32,20,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,6,1,success,96.110.5.142,25,17,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,6,2,success,96.110.5.142,12,17,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,6,3,success,96.110.5.142,14,17,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,7,1,success,96.110.45.65,16,27,18,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,7,2,success,96.110.45.73,46,27,18,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,7,3,success,96.110.45.69,18,27,18,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,8,1,success,96.110.32.182,15,18,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,8,2,success,96.110.32.174,15,18,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,8,3,success,96.110.32.182,25,18,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,9,1,success,96.87.9.146,28,29,28,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,9,2,success,96.87.9.146,28,29,28,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,9,3,success,96.87.9.146,30,29,28,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,10,1,success,89.221.37.148,59,67,68,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,10,2,success,89.221.37.130,75,67,68,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,10,3,success,89.221.37.148,68,67,68,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,11,1,success,89.221.37.139,111,117,119,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,11,2,success,89.221.37.139,119,117,119,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,11,3,success,89.221.37.139,120,117,119,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,12,1,success,200.0.16.21,134,184,134,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,12,2,success,200.0.16.21,114,184,134,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,12,3,success,200.0.16.21,303,184,134,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,13,1,success,200.0.16.65,158,164,166,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,13,2,success,200.0.16.65,166,164,166,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,13,3,success,200.0.16.65,168,164,166,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,14,2,fail,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,54efb25d-236e-4e05-b855-41306652f30e,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,1,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,1,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,1,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,2,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,2,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,2,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,3,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,3,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,3,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,4,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,4,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,4,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,5,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,5,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,5,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,6,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,6,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,6,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,7,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,7,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,7,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,8,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,8,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,8,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,9,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,9,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,61f5a46b-f1d1-40b5-867e-6cec6d750255,9,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,1,1,success,10.1.10.1,10,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,1,2,success,10.1.10.1,4,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,1,3,success,10.1.10.1,4,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,2,1,success,96.120.37.81,11,12,11,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,2,2,success,96.120.37.81,11,12,11,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,2,3,success,96.120.37.81,12,12,11,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,3,1,success,96.110.138.53,13,14,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,3,2,success,96.110.138.53,14,14,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,3,3,success,96.110.138.53,15,14,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,4,1,success,96.108.23.141,12,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,4,2,success,96.108.23.141,12,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,4,3,success,96.108.23.141,13,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,5,1,success,68.86.165.113,14,13,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,5,2,success,68.86.165.113,14,13,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,5,3,success,68.86.165.113,12,13,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,6,1,success,96.110.5.142,13,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,6,2,success,96.110.5.142,13,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,6,3,success,96.110.5.142,12,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,7,1,success,96.110.45.69,15,14,14,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,7,2,success,96.110.45.65,13,14,14,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,7,3,success,96.110.45.77,14,14,14,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,8,1,success,96.110.32.178,13,15,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,8,2,success,96.110.32.174,15,15,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,8,3,success,96.110.32.178,16,15,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,9,1,success,96.87.9.146,13,17,14,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,9,2,success,96.87.9.146,14,17,14,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,9,3,success,96.87.9.146,25,17,14,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,10,1,success,89.221.37.158,59,59,59,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,10,2,success,89.221.37.146,59,59,59,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,10,3,success,89.221.37.158,59,59,59,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,11,1,success,89.221.37.139,117,116,117,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,11,2,success,89.221.37.139,110,116,117,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,11,3,success,89.221.37.139,122,116,117,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,12,1,success,200.0.16.21,120,119,119,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,12,2,success,200.0.16.21,119,119,119,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,12,3,success,200.0.16.21,119,119,119,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,13,1,success,200.0.16.65,118,116,118,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,13,2,success,200.0.16.65,120,116,118,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,13,3,success,200.0.16.65,110,116,118,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,673e5bc5-88d2-462a-bedd-68c0da87bf7d,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,1,1,success,10.1.10.1,10,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,1,2,success,10.1.10.1,4,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,1,3,success,10.1.10.1,4,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,2,1,success,96.120.37.81,12,16,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,2,2,success,96.120.37.81,24,16,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,2,3,success,96.120.37.81,11,16,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,3,1,success,96.110.138.53,12,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,3,2,success,96.110.138.53,12,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,3,3,success,96.110.138.53,12,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,4,1,success,96.108.23.141,15,18,15,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,4,2,success,96.108.23.141,12,18,15,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,4,3,success,96.108.23.141,27,18,15,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,5,1,success,68.86.165.113,15,14,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,5,2,success,68.86.165.113,14,14,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,5,3,success,68.86.165.113,15,14,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,6,1,success,96.110.5.142,52,31,26,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,6,2,success,96.110.5.142,26,31,26,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,6,3,success,96.110.5.142,16,31,26,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,7,1,success,96.110.45.73,17,17,17,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,7,2,success,96.110.45.69,15,17,17,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,7,3,success,96.110.45.77,18,17,17,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,8,1,success,96.110.32.174,17,17,17,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,8,2,success,96.110.32.182,15,17,17,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,8,3,success,96.110.32.178,18,17,17,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,9,1,success,96.87.9.146,18,16,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,9,2,success,96.87.9.146,15,16,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,9,3,success,96.87.9.146,15,16,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,10,1,success,89.221.37.146,62,61,61,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,10,2,success,89.221.37.158,61,61,61,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,10,3,success,89.221.37.130,59,61,61,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,11,1,success,89.221.37.139,120,121,120,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,11,2,success,89.221.37.139,112,121,120,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,11,3,success,89.221.37.139,131,121,120,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,12,1,success,200.0.16.21,118,123,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,12,2,success,200.0.16.21,131,123,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,12,3,success,200.0.16.21,120,123,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,13,1,success,200.0.16.65,115,116,115,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,13,2,success,200.0.16.65,113,116,115,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,13,3,success,200.0.16.65,119,116,115,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,6c985cca-a48b-4bbe-8034-36213b05985a,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,1,1,success,10.1.10.1,9,5,3,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,1,2,success,10.1.10.1,3,5,3,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,1,3,success,10.1.10.1,3,5,3,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,2,1,success,96.120.37.81,13,16,13,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,2,2,success,96.120.37.81,13,16,13,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,2,3,success,96.120.37.81,22,16,13,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,3,1,success,96.110.138.53,13,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,3,2,success,96.110.138.53,14,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,3,3,success,96.110.138.53,12,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,4,1,success,96.108.23.141,11,13,11,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,4,2,success,96.108.23.141,16,13,11,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,4,3,success,96.108.23.141,11,13,11,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,5,1,success,68.86.165.113,15,15,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,5,2,success,68.86.165.113,16,15,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,5,3,success,68.86.165.113,15,15,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,6,1,success,96.110.5.142,13,16,16,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,6,2,success,96.110.5.142,19,16,16,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,6,3,success,96.110.5.142,16,16,16,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,7,1,success,96.110.45.73,27,20,19,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,7,2,success,96.110.45.65,14,20,19,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,7,3,success,96.110.45.69,19,20,19,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,8,1,success,96.110.32.174,12,13,13,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,8,2,success,96.110.32.178,14,13,13,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,8,3,success,96.110.32.182,13,13,13,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,9,1,success,96.87.9.146,15,14,14,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,9,2,success,96.87.9.146,14,14,14,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,9,3,success,96.87.9.146,12,14,14,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,10,1,success,89.221.37.146,61,64,61,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,10,2,success,89.221.37.146,70,64,61,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,10,3,success,89.221.37.146,60,64,61,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,11,1,success,89.221.37.139,112,112,112,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,11,2,success,89.221.37.139,112,112,112,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,11,3,success,89.221.37.139,112,112,112,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,12,1,success,200.0.16.21,126,117,113,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,12,2,success,200.0.16.21,113,117,113,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,12,3,success,200.0.16.21,113,117,113,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,13,1,success,200.0.16.65,117,119,119,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,13,2,success,200.0.16.65,120,119,119,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,13,3,success,200.0.16.65,119,119,119,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,741c2ce8-ed43-4103-babd-ef504bcd21ed,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,1,1,success,10.1.10.1,11,11,11,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,1,2,success,10.1.10.1,11,11,11,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,1,3,success,10.1.10.1,10,11,11,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,2,1,success,96.120.37.81,25,17,14,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,2,2,success,96.120.37.81,14,17,14,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,2,3,success,96.120.37.81,13,17,14,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,3,1,success,96.110.138.53,16,17,16,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,3,2,success,96.110.138.53,14,17,16,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,3,3,success,96.110.138.53,20,17,16,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,4,1,success,96.108.23.141,14,15,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,4,2,success,96.108.23.141,14,15,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,4,3,success,96.108.23.141,16,15,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,5,1,success,68.86.165.113,23,20,20,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,5,2,success,68.86.165.113,15,20,20,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,5,3,success,68.86.165.113,20,20,20,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,6,1,success,96.110.5.142,14,13,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,6,2,success,96.110.5.142,12,13,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,6,3,success,96.110.5.142,14,13,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,7,1,success,96.110.45.65,15,15,15,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,7,2,success,96.110.45.73,15,15,15,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,7,3,success,96.110.45.69,16,15,15,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,8,1,success,96.110.32.174,14,17,14,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,8,2,success,96.110.32.178,23,17,14,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,8,3,success,96.110.32.182,14,17,14,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,9,1,success,96.87.9.146,18,19,18,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,9,2,success,96.87.9.146,20,19,18,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,9,3,success,96.87.9.146,18,19,18,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,10,1,success,89.221.37.148,61,60,60,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,10,2,success,89.221.37.158,58,60,60,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,10,3,success,89.221.37.130,60,60,60,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,11,1,success,89.221.37.139,120,119,120,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,11,2,success,89.221.37.139,123,119,120,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,11,3,success,89.221.37.139,113,119,120,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,12,1,success,200.0.16.21,114,118,118,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,12,2,success,200.0.16.21,122,118,118,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,12,3,success,200.0.16.21,118,118,118,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,13,1,success,200.0.16.65,124,122,123,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,13,2,success,200.0.16.65,123,122,123,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,13,3,success,200.0.16.65,120,122,123,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,16,1,timeout,,,120,120,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,16,2,timeout,,,120,120,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,16,3,success,200.0.16.65,120,120,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,77d71413-6597-4b6f-b831-3f7477bd1d9d,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,1,1,success,10.1.10.1,10,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,1,2,success,10.1.10.1,4,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,1,3,success,10.1.10.1,4,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,2,1,success,96.120.37.81,11,11,11,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,2,2,success,96.120.37.81,12,11,11,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,2,3,success,96.120.37.81,11,11,11,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,3,1,success,96.110.138.53,14,15,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,3,2,success,96.110.138.53,16,15,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,3,3,success,96.110.138.53,13,15,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,4,1,success,96.108.23.141,21,16,17,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,4,2,success,96.108.23.141,17,16,17,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,4,3,success,96.108.23.141,12,16,17,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,5,1,success,68.86.165.113,15,14,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,5,2,success,68.86.165.113,13,14,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,5,3,success,68.86.165.113,15,14,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,6,1,success,96.110.5.142,15,14,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,6,2,success,96.110.5.142,13,14,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,6,3,success,96.110.5.142,14,14,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,7,1,success,96.110.45.65,17,16,16,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,7,2,success,96.110.45.69,15,16,16,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,7,3,success,96.110.45.69,16,16,16,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,8,1,success,96.110.32.170,14,17,14,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,8,2,success,96.110.32.174,14,17,14,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,8,3,success,96.110.32.182,23,17,14,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,9,1,success,96.87.9.146,15,15,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,9,2,success,96.87.9.146,13,15,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,9,3,success,96.87.9.146,16,15,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,10,1,success,89.221.37.158,68,63,60,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,10,2,success,89.221.37.130,59,63,60,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,10,3,success,89.221.37.146,60,63,60,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,11,1,success,89.221.37.139,120,117,120,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,11,2,success,89.221.37.139,120,117,120,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,11,3,success,89.221.37.139,111,117,120,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,12,1,success,200.0.16.21,112,114,112,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,12,2,success,200.0.16.21,119,114,112,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,12,3,success,200.0.16.21,111,114,112,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,13,1,success,200.0.16.65,109,111,111,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,13,2,success,200.0.16.65,111,111,111,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,13,3,success,200.0.16.65,113,111,111,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,26,3,fail,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,89933aa3-b6d9-4d85-b7a3-44e53fce46c4,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,1,1,success,10.1.10.1,3,3,3,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,1,2,success,10.1.10.1,3,3,3,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,1,3,success,10.1.10.1,3,3,3,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,2,1,success,96.120.37.81,43,32,33,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,2,2,success,96.120.37.81,33,32,33,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,2,3,success,96.120.37.81,19,32,33,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,3,1,success,96.110.138.53,46,30,28,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,3,2,success,96.110.138.53,28,30,28,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,3,3,success,96.110.138.53,17,30,28,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,4,1,success,96.108.23.141,29,24,25,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,4,2,success,96.108.23.141,17,24,25,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,4,3,success,96.108.23.141,25,24,25,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,5,1,success,68.86.165.113,98,42,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,5,2,success,68.86.165.113,14,42,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,5,3,success,68.86.165.113,14,42,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,6,1,success,96.110.5.142,15,16,16,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,6,2,success,96.110.5.142,18,16,16,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,6,3,success,96.110.5.142,16,16,16,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,7,1,success,96.110.45.77,26,20,18,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,7,2,success,96.110.45.77,15,20,18,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,7,3,success,96.110.45.73,18,20,18,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,8,1,success,96.110.32.178,37,24,19,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,8,2,success,96.110.32.170,15,24,19,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,8,3,success,96.110.32.174,19,24,19,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,9,1,success,96.87.9.146,34,25,26,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,9,2,success,96.87.9.146,15,25,26,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,9,3,success,96.87.9.146,26,25,26,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,10,1,success,89.221.37.146,60,65,67,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,10,2,success,89.221.37.158,67,65,67,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,10,3,success,89.221.37.130,67,65,67,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,11,1,success,89.221.37.139,112,121,123,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,11,2,success,89.221.37.139,123,121,123,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,11,3,success,89.221.37.139,128,121,123,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,12,1,success,200.0.16.21,134,128,134,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,12,2,success,200.0.16.21,115,128,134,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,12,3,success,200.0.16.21,134,128,134,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,13,1,success,200.0.16.65,122,124,122,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,13,2,success,200.0.16.65,109,124,122,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,13,3,success,200.0.16.65,141,124,122,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,17,1,fail,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,8ffb29c8-55c0-4095-ba7e-73e34c626da4,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,1,1,success,10.1.10.1,1024,347,12,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,1,2,success,10.1.10.1,4,347,12,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,1,3,success,10.1.10.1,12,347,12,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,2,1,success,96.120.37.81,12,12,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,2,2,success,96.120.37.81,12,12,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,2,3,timeout,,,12,12,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,3,1,timeout,,,602,602,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,3,2,success,96.110.138.53,1192,602,602,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,3,3,success,96.110.138.53,12,602,602,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,4,1,success,96.108.23.141,13,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,4,2,timeout,,,13,13,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,4,3,timeout,,,13,13,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,5,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,5,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,5,3,fail,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,6,1,success,96.110.5.142,20,16,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,6,2,success,96.110.5.142,13,16,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,6,3,success,96.110.5.142,14,16,14,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,7,1,success,96.110.45.69,15,15,15,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,7,2,success,96.110.45.69,16,15,15,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,7,3,success,96.110.45.77,14,15,15,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,8,1,timeout,,,1096,1096,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,8,2,timeout,,,1096,1096,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,8,3,success,96.110.32.182,1096,1096,1096,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,9,1,success,96.87.9.146,1079,1079,1079,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,9,2,timeout,,,1079,1079,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,9,3,timeout,,,1079,1079,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,10,1,success,89.221.37.158,1149,1149,1149,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,10,2,timeout,,,1149,1149,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,10,3,timeout,,,1149,1149,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,11,1,timeout,,,691,691,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,11,2,success,89.221.37.139,1270,691,691,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,11,3,success,89.221.37.139,112,691,691,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,12,1,timeout,,,1230,1230,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,12,2,success,200.0.16.21,1230,1230,1230,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,12,3,timeout,,,1230,1230,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,13,1,timeout,,,126,126,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,13,2,success,200.0.16.65,126,126,126,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,13,3,timeout,,,126,126,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,93fdeddc-346a-4ec1-a2cd-35dd31c4c97d,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,1,1,success,10.1.10.1,11,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,1,2,success,10.1.10.1,4,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,1,3,success,10.1.10.1,3,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,2,1,success,96.120.37.81,11,12,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,2,2,success,96.120.37.81,12,12,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,2,3,success,96.120.37.81,13,12,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,3,1,success,96.110.138.53,12,14,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,3,2,success,96.110.138.53,12,14,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,3,3,success,96.110.138.53,20,14,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,4,1,success,96.108.23.141,15,14,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,4,2,success,96.108.23.141,13,14,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,4,3,success,96.108.23.141,13,14,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,5,1,success,68.86.165.113,14,16,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,5,2,success,68.86.165.113,15,16,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,5,3,success,68.86.165.113,19,16,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,6,1,success,96.110.5.142,18,22,18,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,6,2,success,96.110.5.142,32,22,18,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,6,3,success,96.110.5.142,17,22,18,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,7,1,success,96.110.45.69,18,17,16,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,7,2,success,96.110.45.77,16,17,16,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,7,3,success,96.110.45.65,15,17,16,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,8,1,success,96.110.32.174,15,15,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,8,2,success,96.110.32.182,16,15,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,8,3,success,96.110.32.178,15,15,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,9,1,success,96.87.9.146,15,15,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,9,2,success,96.87.9.146,16,15,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,9,3,success,96.87.9.146,15,15,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,10,1,success,89.221.37.130,60,61,60,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,10,2,success,89.221.37.146,62,61,60,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,10,3,success,89.221.37.148,60,61,60,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,11,1,success,89.221.37.139,111,117,119,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,11,2,success,89.221.37.139,120,117,119,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,11,3,success,89.221.37.139,119,117,119,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,12,1,success,200.0.16.21,120,117,119,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,12,2,success,200.0.16.21,119,117,119,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,12,3,success,200.0.16.21,111,117,119,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,13,1,success,200.0.16.65,110,113,111,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,13,2,success,200.0.16.65,118,113,111,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,13,3,success,200.0.16.65,111,113,111,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,24,1,fail,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,94fe792d-9727-42a0-8e4e-a658c9401359,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,1,1,success,10.1.10.1,11,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,1,2,success,10.1.10.1,4,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,1,3,success,10.1.10.1,4,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,2,1,success,96.120.37.81,14,14,14,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,2,2,success,96.120.37.81,17,14,14,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,2,3,success,96.120.37.81,12,14,14,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,3,1,success,96.110.138.53,11,11,11,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,3,2,success,96.110.138.53,12,11,11,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,3,3,success,96.110.138.53,11,11,11,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,4,1,success,96.108.23.141,12,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,4,2,success,96.108.23.141,12,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,4,3,success,96.108.23.141,13,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,5,1,success,68.86.165.113,14,19,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,5,2,success,68.86.165.113,29,19,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,5,3,success,68.86.165.113,14,19,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,6,1,success,96.110.5.142,18,21,18,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,6,2,success,96.110.5.142,13,21,18,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,6,3,success,96.110.5.142,33,21,18,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,7,1,success,96.110.45.65,14,15,16,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,7,2,success,96.110.45.73,16,15,16,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,7,3,success,96.110.45.73,16,15,16,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,8,1,success,96.110.32.170,14,13,13,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,8,2,success,96.110.32.170,13,13,13,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,8,3,success,96.110.32.170,13,13,13,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,9,1,success,96.87.9.146,14,15,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,9,2,success,96.87.9.146,15,15,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,9,3,success,96.87.9.146,16,15,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,10,1,success,89.221.37.146,60,59,59,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,10,2,success,89.221.37.130,57,59,59,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,10,3,success,89.221.37.148,59,59,59,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,11,1,success,89.221.37.139,121,124,121,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,11,2,success,89.221.37.139,121,124,121,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,11,3,success,89.221.37.139,129,124,121,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,12,1,success,200.0.16.21,121,115,113,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,12,2,success,200.0.16.21,113,115,113,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,12,3,success,200.0.16.21,111,115,113,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,13,1,success,200.0.16.65,113,115,113,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,13,2,success,200.0.16.65,120,115,113,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,13,3,success,200.0.16.65,112,115,113,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,15,1,fail,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,c6922083-56a8-4e03-b54e-6d8219df4a3a,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,1,1,success,10.1.10.1,12,7,5,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,1,2,success,10.1.10.1,5,7,5,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,1,3,success,10.1.10.1,4,7,5,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,2,1,success,96.120.37.81,12,13,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,2,2,success,96.120.37.81,14,13,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,2,3,success,96.120.37.81,11,13,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,3,1,success,96.110.138.53,13,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,3,2,success,96.110.138.53,11,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,3,3,success,96.110.138.53,15,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,4,1,success,96.108.23.141,11,11,11,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,4,2,success,96.108.23.141,12,11,11,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,4,3,success,96.108.23.141,11,11,11,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,5,1,success,68.86.165.113,14,14,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,5,2,success,68.86.165.113,13,14,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,5,3,success,68.86.165.113,14,14,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,6,1,success,96.110.5.142,13,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,6,2,success,96.110.5.142,15,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,6,3,success,96.110.5.142,12,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,7,1,success,96.110.45.73,15,15,15,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,7,2,success,96.110.45.73,14,15,15,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,7,3,success,96.110.45.73,15,15,15,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,8,1,success,96.110.32.178,14,17,17,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,8,2,success,96.110.32.174,17,17,17,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,8,3,success,96.110.32.178,19,17,17,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,9,1,success,96.87.9.146,16,16,16,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,9,2,success,96.87.9.146,14,16,16,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,9,3,success,96.87.9.146,16,16,16,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,10,1,success,89.221.37.148,64,62,64,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,10,2,success,89.221.37.158,58,62,64,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,10,3,success,89.221.37.158,65,62,64,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,11,1,success,89.221.37.139,118,121,119,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,11,2,success,89.221.37.139,124,121,119,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,11,3,success,89.221.37.139,119,121,119,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,12,1,success,200.0.16.21,112,117,117,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,12,2,success,200.0.16.21,117,117,117,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,12,3,success,200.0.16.21,123,117,117,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,13,1,success,200.0.16.65,114,113,113,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,13,2,success,200.0.16.65,113,113,113,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,13,3,success,200.0.16.65,112,113,113,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,dce27fbc-88b5-4c73-a7f0-137ee5a7f7b5,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,1,1,success,10.1.10.1,4,4,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,1,2,success,10.1.10.1,4,4,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,1,3,success,10.1.10.1,4,4,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,2,1,success,96.120.37.81,22,15,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,2,2,success,96.120.37.81,12,15,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,2,3,success,96.120.37.81,11,15,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,3,1,success,96.110.138.53,12,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,3,2,success,96.110.138.53,11,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,3,3,success,96.110.138.53,12,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,4,1,success,96.108.23.141,11,11,11,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,4,2,success,96.108.23.141,11,11,11,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,4,3,success,96.108.23.141,12,11,11,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,5,1,success,68.86.165.113,14,14,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,5,2,success,68.86.165.113,14,14,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,5,3,success,68.86.165.113,14,14,14,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,6,1,success,96.110.5.142,15,16,15,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,6,2,success,96.110.5.142,20,16,15,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,6,3,success,96.110.5.142,13,16,15,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,7,1,success,96.110.45.65,14,14,14,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,7,2,success,96.110.45.73,14,14,14,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,7,3,success,96.110.45.77,14,14,14,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,8,1,success,96.110.32.178,13,14,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,8,2,success,96.110.32.174,15,14,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,8,3,success,96.110.32.178,15,14,15,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,9,1,success,96.87.9.146,15,15,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,9,2,success,96.87.9.146,14,15,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,9,3,success,96.87.9.146,16,15,15,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,10,1,success,89.221.37.148,61,60,61,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,10,2,success,89.221.37.130,57,60,61,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,10,3,success,89.221.37.148,63,60,61,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,11,1,success,89.221.37.139,111,116,118,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,11,2,success,89.221.37.139,118,116,118,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,11,3,success,89.221.37.139,119,116,118,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,12,1,success,200.0.16.21,111,115,112,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,12,2,success,200.0.16.21,112,115,112,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,12,3,success,200.0.16.21,121,115,112,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,13,1,success,200.0.16.65,119,122,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,13,2,success,200.0.16.65,120,122,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,13,3,success,200.0.16.65,128,122,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,25,1,fail,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f0d55aae-8bcb-41bd-9c39-431182a74db5,29,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,1,1,success,10.1.10.1,11,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,1,2,success,10.1.10.1,4,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,1,3,success,10.1.10.1,4,6,4,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,2,1,success,96.120.37.81,13,12,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,2,2,success,96.120.37.81,11,12,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,2,3,success,96.120.37.81,12,12,12,Washington,United States,US,USA,Washington,District of Columbia,DC,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,3,1,success,96.110.138.53,13,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,3,2,success,96.110.138.53,13,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,3,3,success,96.110.138.53,13,13,13,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,4,1,success,96.108.23.141,13,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,4,2,success,96.108.23.141,12,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,4,3,success,96.108.23.141,12,12,12,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,5,1,success,68.86.165.113,15,18,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,5,2,success,68.86.165.113,25,18,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,5,3,success,68.86.165.113,13,18,15,Okeechobee,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,6,1,success,96.110.5.142,15,14,15,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,6,2,success,96.110.5.142,13,14,15,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,6,3,success,96.110.5.142,16,14,15,Jacksonville,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,7,1,success,96.110.45.69,14,14,13,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,7,2,success,96.110.45.65,13,14,13,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,7,3,success,96.110.45.69,13,14,13,Chicago,United States,US,USA,Washington,Illinois,IL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,8,1,success,96.110.32.174,14,14,14,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,8,2,success,96.110.32.178,14,14,14,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,8,3,success,96.110.32.174,14,14,14,Marietta,United States,US,USA,Washington,Georgia,GA,,,America/New_York,-0400,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,9,1,success,96.87.9.146,13,13,13,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,9,2,success,96.87.9.146,14,13,13,Madison,United States,US,USA,Washington,Alabama,AL,,,America/Chicago,-0500,AS7922,COMCAST-7922
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,9,3,fail,,,13,13,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,10,1,success,89.221.37.148,90,73,70,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,10,2,success,89.221.37.148,70,73,70,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,10,3,success,89.221.37.148,59,73,70,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,11,1,success,89.221.37.139,119,113,111,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,11,2,success,89.221.37.139,110,113,111,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,11,3,success,89.221.37.139,111,113,111,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,12,1,success,200.0.16.21,120,120,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,12,2,success,200.0.16.21,120,120,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,12,3,success,200.0.16.21,121,120,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,13,1,success,200.0.16.65,110,117,119,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,13,2,success,200.0.16.65,119,117,119,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,13,3,success,200.0.16.65,122,117,119,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,14,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,14,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,14,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,15,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,15,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,15,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,16,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,16,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,16,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,17,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,17,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,17,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,18,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,18,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,18,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,19,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,19,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,19,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,20,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,20,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,20,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,21,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,21,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,21,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,22,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,22,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,22,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,23,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,23,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,23,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,24,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,24,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,24,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,25,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,25,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,25,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,26,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,26,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,26,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,27,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,27,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,27,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,28,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,28,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,28,3,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,29,1,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,29,2,timeout,,,,,,,,,,,,,,,,,
+10.1.10.58,169.158.1.236,f8d10e58-0776-4df1-af5b-1b21ca8b4b8e,29,3,timeout,,,,,,,,,,,,,,,,,

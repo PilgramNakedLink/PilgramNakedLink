@@ -1,0 +1,88 @@
+source,destination,trace,ttl,query,query_result,addr,rtt,hop_mean_ms,hop_median_ms,city,country,country_code,country_code_iso3,country_capital,region,region_code,latitude,longitude,timezone,utc_offset,asn,org
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,1,1,success,192.168.200.1,3,2,2,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,1,2,success,192.168.200.1,2,2,2,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,1,3,success,192.168.200.1,2,2,2,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,2,1,success,10.180.128.1,13,20,13,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,2,2,success,10.180.128.1,34,20,13,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,2,3,success,10.180.128.1,13,20,13,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,3,1,success,209.196.186.0,14,14,14,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,3,2,success,209.196.186.0,15,14,14,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,3,3,success,209.196.186.0,11,14,14,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,4,1,success,172.23.85.35,14,14,14,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,4,2,success,172.23.85.35,14,14,14,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,4,3,success,172.23.85.35,14,14,14,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,5,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,5,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,5,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,6,1,success,154.54.45.158,13,12,13,Memphis,United States,US,USA,Washington,Tennessee,TN,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,6,2,success,154.54.45.158,13,12,13,Memphis,United States,US,USA,Washington,Tennessee,TN,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,6,3,success,154.54.45.158,11,12,13,Memphis,United States,US,USA,Washington,Tennessee,TN,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,7,1,success,154.54.10.210,25,19,17,Los Angeles,United States,US,USA,Washington,California,CA,,,America/Los_Angeles,-0700,AS174,COGENT-174
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,7,2,success,154.54.10.210,13,19,17,Los Angeles,United States,US,USA,Washington,California,CA,,,America/Los_Angeles,-0700,AS174,COGENT-174
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,7,3,success,154.54.10.210,17,19,17,Los Angeles,United States,US,USA,Washington,California,CA,,,America/Los_Angeles,-0700,AS174,COGENT-174
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,8,1,success,89.221.37.148,58,70,58,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,8,2,success,89.221.37.158,56,70,58,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,8,3,success,89.221.37.148,97,70,58,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,9,1,success,89.221.37.139,87,92,87,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,9,2,success,89.221.37.139,82,92,87,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,9,3,success,89.221.37.139,108,92,87,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,10,1,success,200.0.16.21,90,164,123,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,10,2,success,200.0.16.21,277,164,123,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,10,3,success,200.0.16.21,123,164,123,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,11,1,success,200.0.16.65,99,113,99,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,11,2,success,200.0.16.65,162,113,99,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,11,3,success,200.0.16.65,78,113,99,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,12,1,success,169.158.128.49,83,94,88,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,12,2,success,169.158.128.49,113,94,88,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,12,3,success,169.158.128.49,88,94,88,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,13,1,success,169.158.128.130,289,149,79,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,13,2,success,169.158.128.130,79,149,79,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,13,3,success,169.158.128.130,79,149,79,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,14,1,timeout,,,151,151,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,14,2,success,169.158.128.130,151,151,151,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,14,3,timeout,,,151,151,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,15,1,timeout,,,86,86,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,15,2,success,169.158.128.130,86,86,86,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,15,3,timeout,,,86,86,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,16,1,success,169.158.128.130,88,88,88,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,16,2,timeout,,,88,88,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,16,3,timeout,,,88,88,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,17,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,17,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,17,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,18,1,timeout,,,89,89,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,18,2,success,169.158.128.130,89,89,89,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,18,3,timeout,,,89,89,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,19,1,timeout,,,287,287,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,19,2,success,169.158.128.130,287,287,287,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,19,3,timeout,,,287,287,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,20,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,20,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,20,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,21,1,timeout,,,130,130,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,21,2,success,169.158.128.130,130,130,130,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,21,3,timeout,,,130,130,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,22,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,22,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,22,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,23,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,23,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,23,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,24,1,timeout,,,90,90,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,24,2,timeout,,,90,90,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,24,3,success,169.158.128.130,90,90,90,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,25,1,timeout,,,96,96,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,25,2,timeout,,,96,96,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,25,3,success,169.158.128.130,96,96,96,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,26,1,timeout,,,166,166,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,26,2,timeout,,,166,166,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,26,3,success,169.158.128.130,166,166,166,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,27,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,27,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,27,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,28,1,timeout,,,80,80,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,28,2,success,169.158.128.130,80,80,80,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,28,3,timeout,,,80,80,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,29,1,success,169.158.128.130,88,107,107,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,29,2,timeout,,,107,107,,,,,,,,,,,,,
+192.168.200.37,169.158.131.81,199f8801-6cc8-4126-a1a9-c2650edeef01,29,3,success,169.158.128.130,125,107,107,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS10569,Red CENIAInternet

@@ -1,0 +1,175 @@
+source,destination,trace,ttl,query,query_result,addr,rtt,hop_mean_ms,hop_median_ms,city,country,country_code,country_code_iso3,country_capital,region,region_code,latitude,longitude,timezone,utc_offset,asn,org
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,1,1,success,192.168.200.1,21,8,2,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,1,2,success,192.168.200.1,2,8,2,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,1,3,success,192.168.200.1,2,8,2,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,2,1,success,10.180.128.1,13,12,12,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,2,2,success,10.180.128.1,12,12,12,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,2,3,success,10.180.128.1,11,12,12,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,3,1,success,209.196.186.0,29,18,15,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,3,2,success,209.196.186.0,15,18,15,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,3,3,success,209.196.186.0,11,18,15,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,4,1,success,172.23.85.35,15,14,15,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,4,2,success,172.23.85.35,15,14,15,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,4,3,success,172.23.85.35,12,14,15,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,5,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,5,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,5,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,6,1,success,154.54.47.29,20,14,12,Houston,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,6,2,success,154.54.47.29,12,14,12,Houston,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,6,3,success,154.54.47.29,11,14,12,Houston,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,7,1,success,154.54.24.145,66,41,32,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,7,2,success,154.54.24.145,32,41,32,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,7,3,success,154.54.24.145,26,41,32,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,8,1,success,154.54.7.157,38,37,38,Philadelphia,United States,US,USA,Washington,Pennsylvania,PA,,,America/New_York,-0400,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,8,2,success,154.54.7.157,38,37,38,Philadelphia,United States,US,USA,Washington,Pennsylvania,PA,,,America/New_York,-0400,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,8,3,success,154.54.24.221,36,37,38,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,9,1,success,154.54.30.66,246,117,59,New York,United States,US,USA,Washington,New York,NY,,,America/New_York,-0400,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,9,2,success,154.54.30.66,59,117,59,New York,United States,US,USA,Washington,New York,NY,,,America/New_York,-0400,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,9,3,success,154.54.30.66,47,117,59,New York,United States,US,USA,Washington,New York,NY,,,America/New_York,-0400,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,10,1,success,154.54.11.122,37,39,37,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,10,2,success,154.54.11.122,36,39,37,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,10,3,success,154.54.11.122,44,39,37,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,11,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,11,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,11,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,12,1,success,193.251.151.114,47,44,46,Bagnolet,France,FR,FRA,Paris,Île-de-France,IDF,,,Europe/Paris,+0200,AS5511,Orange
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,12,2,success,193.251.151.114,39,44,46,Bagnolet,France,FR,FRA,Paris,Île-de-France,IDF,,,Europe/Paris,+0200,AS5511,Orange
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,12,3,success,193.251.243.197,46,44,46,Paris,France,FR,FRA,Paris,Île-de-France,IDF,,,Europe/Paris,+0200,AS5511,Orange
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,13,1,success,193.251.255.68,92,147,95,Paris,France,FR,FRA,Paris,Île-de-France,IDF,,,Europe/Paris,+0200,AS5511,Orange
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,13,2,success,193.251.255.68,253,147,95,Paris,France,FR,FRA,Paris,Île-de-France,IDF,,,Europe/Paris,+0200,AS5511,Orange
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,13,3,success,193.251.255.68,95,147,95,Paris,France,FR,FRA,Paris,Île-de-France,IDF,,,Europe/Paris,+0200,AS5511,Orange
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,14,1,success,200.0.16.16,93,98,101,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,14,2,success,200.0.16.16,101,98,101,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,14,3,success,200.0.16.16,102,98,101,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,15,1,success,200.0.16.21,95,102,95,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,15,2,success,200.0.16.21,95,102,95,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,15,3,success,200.0.16.21,115,102,95,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,16,1,success,200.0.16.29,97,154,128,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. IXP CUBA
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,16,2,success,200.0.16.25,238,154,128,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. IXP CUBA
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,16,3,success,200.0.16.25,128,154,128,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. IXP CUBA
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,17,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,17,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,17,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,18,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,18,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,18,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,19,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,19,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,19,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,20,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,20,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,20,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,21,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,21,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,21,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,22,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,22,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,22,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,23,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,23,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,23,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,24,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,24,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,24,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,25,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,25,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,25,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,26,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,26,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,26,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,27,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,27,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,27,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,28,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,28,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,28,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,29,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,29,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,39a0e5dd-1b7c-4d6e-86cc-f0fc87a3c554,29,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,1,1,success,192.168.200.1,3,2,2,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,1,2,success,192.168.200.1,2,2,2,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,1,3,success,192.168.200.1,2,2,2,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,2,1,success,10.180.128.1,14,11,11,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,2,2,success,10.180.128.1,9,11,11,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,2,3,success,10.180.128.1,11,11,11,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,3,1,success,209.196.186.0,10,10,10,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,3,2,success,209.196.186.0,10,10,10,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,3,3,success,209.196.186.0,10,10,10,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,4,1,success,172.23.85.35,11,13,11,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,4,2,success,172.23.85.35,11,13,11,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,4,3,success,172.23.85.35,18,13,11,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,5,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,5,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,5,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,6,1,success,154.54.47.29,12,14,12,Houston,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,6,2,success,154.54.47.17,11,14,12,Houston,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,6,3,success,154.54.47.17,18,14,12,Houston,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,7,1,success,154.54.24.145,26,45,26,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,7,2,success,154.54.28.49,85,45,26,Toronto,Canada,CA,CAN,Ottawa,Ontario,ON,,,America/Toronto,-0400,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,7,3,success,154.54.28.49,23,45,26,Toronto,Canada,CA,CAN,Ottawa,Ontario,ON,,,America/Toronto,-0400,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,8,1,success,154.54.24.221,35,106,35,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,8,2,success,154.54.24.221,248,106,35,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,8,3,success,154.54.24.221,35,106,35,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,9,1,success,154.54.30.54,36,36,36,New York,United States,US,USA,Washington,New York,NY,,,America/New_York,-0400,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,9,2,success,154.54.30.66,37,36,36,New York,United States,US,USA,Washington,New York,NY,,,America/New_York,-0400,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,9,3,success,154.54.30.66,35,36,36,New York,United States,US,USA,Washington,New York,NY,,,America/New_York,-0400,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,10,1,success,154.54.11.122,43,46,43,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,10,2,success,154.54.11.122,43,46,43,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,10,3,success,154.54.11.122,52,46,43,Dallas,United States,US,USA,Washington,Texas,TX,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,11,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,11,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,11,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,12,1,success,193.251.243.197,48,45,48,Paris,France,FR,FRA,Paris,Île-de-France,IDF,,,Europe/Paris,+0200,AS5511,Orange
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,12,2,success,193.251.151.114,39,45,48,Bagnolet,France,FR,FRA,Paris,Île-de-France,IDF,,,Europe/Paris,+0200,AS5511,Orange
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,12,3,success,193.251.243.197,48,45,48,Paris,France,FR,FRA,Paris,Île-de-France,IDF,,,Europe/Paris,+0200,AS5511,Orange
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,13,1,success,193.251.255.68,285,157,93,Paris,France,FR,FRA,Paris,Île-de-France,IDF,,,Europe/Paris,+0200,AS5511,Orange
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,13,2,success,193.251.255.68,93,157,93,Paris,France,FR,FRA,Paris,Île-de-France,IDF,,,Europe/Paris,+0200,AS5511,Orange
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,13,3,success,193.251.255.68,93,157,93,Paris,France,FR,FRA,Paris,Île-de-France,IDF,,,Europe/Paris,+0200,AS5511,Orange
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,14,1,success,200.0.16.16,105,98,97,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,14,2,success,200.0.16.16,97,98,97,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,14,3,success,200.0.16.16,92,98,97,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,15,1,success,200.0.16.21,95,97,98,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,15,2,success,200.0.16.21,99,97,98,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,15,3,success,200.0.16.21,98,97,98,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,16,1,success,200.0.16.29,259,157,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. IXP CUBA
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,16,2,success,200.0.16.25,120,157,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. IXP CUBA
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,16,3,success,200.0.16.29,93,157,120,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. IXP CUBA
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,17,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,17,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,17,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,18,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,18,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,18,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,19,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,19,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,19,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,20,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,20,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,20,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,21,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,21,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,21,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,22,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,22,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,22,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,23,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,23,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,23,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,24,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,24,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,24,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,25,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,25,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,25,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,26,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,26,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,26,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,27,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,27,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,27,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,28,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,28,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,28,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,29,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,29,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.203.149,738eecd9-4b15-4fc2-be27-6eb0a67be31f,29,3,timeout,,,,,,,,,,,,,,,,,

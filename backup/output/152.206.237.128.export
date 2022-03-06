@@ -1,0 +1,76 @@
+source,destination,trace,ttl,query,query_result,addr,rtt,hop_mean_ms,hop_median_ms,city,country,country_code,country_code_iso3,country_capital,region,region_code,latitude,longitude,timezone,utc_offset,asn,org
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,1,1,success,192.168.200.1,86,30,3,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,1,2,success,192.168.200.1,3,30,3,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,1,3,success,192.168.200.1,3,30,3,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,2,1,success,10.180.128.1,24,16,13,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,2,2,success,10.180.128.1,11,16,13,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,2,3,success,10.180.128.1,13,16,13,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,3,1,success,209.196.186.0,12,12,12,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,3,2,success,209.196.186.0,11,12,12,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,3,3,success,209.196.186.0,12,12,12,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,4,1,success,172.23.85.35,14,15,14,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,4,2,success,172.23.85.35,12,15,14,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,4,3,success,172.23.85.35,20,15,14,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,5,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,5,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,5,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,6,1,success,154.54.45.158,19,14,12,Memphis,United States,US,USA,Washington,Tennessee,TN,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,6,2,success,154.54.45.158,12,14,12,Memphis,United States,US,USA,Washington,Tennessee,TN,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,6,3,success,154.54.45.158,12,14,12,Memphis,United States,US,USA,Washington,Tennessee,TN,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,7,1,success,154.54.10.210,12,12,12,Los Angeles,United States,US,USA,Washington,California,CA,,,America/Los_Angeles,-0700,AS174,COGENT-174
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,7,2,success,154.54.10.210,13,12,12,Los Angeles,United States,US,USA,Washington,California,CA,,,America/Los_Angeles,-0700,AS174,COGENT-174
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,7,3,success,154.54.10.210,10,12,12,Los Angeles,United States,US,USA,Washington,California,CA,,,America/Los_Angeles,-0700,AS174,COGENT-174
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,8,1,success,89.221.37.148,58,59,58,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,8,2,success,89.221.37.158,60,59,58,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,8,3,success,89.221.37.148,58,59,58,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,9,1,success,89.221.37.133,273,144,81,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,9,2,success,89.221.37.133,79,144,81,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,9,3,success,89.221.37.133,81,144,81,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,10,1,success,200.0.16.23,80,111,83,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,10,2,success,200.0.16.23,170,111,83,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,10,3,success,200.0.16.23,83,111,83,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,11,1,success,200.0.16.27,82,83,82,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,11,2,success,200.0.16.31,80,83,82,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,11,3,success,200.0.16.27,87,83,82,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,12,1,success,152.206.237.128,288,152,86,Arroyo Naranjo,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS27725,"Empresa de Telecomunicaciones de Cuba, S.A."
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,12,2,success,152.206.237.128,81,152,86,Arroyo Naranjo,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS27725,"Empresa de Telecomunicaciones de Cuba, S.A."
+192.168.200.37,152.206.237.128,13aee8fd-879d-4da7-ad04-da2f86ed3598,12,3,success,152.206.237.128,86,152,86,Arroyo Naranjo,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS27725,"Empresa de Telecomunicaciones de Cuba, S.A."
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,1,1,timeout,,,5,5,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,1,2,success,192.168.200.1,8,5,5,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,1,3,success,192.168.200.1,2,5,5,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,2,1,success,10.180.128.1,10,10,10,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,2,2,success,10.180.128.1,9,10,10,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,2,3,success,10.180.128.1,12,10,10,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,3,1,success,209.196.186.0,39,22,15,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,3,2,success,209.196.186.0,12,22,15,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,3,3,success,209.196.186.0,15,22,15,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,4,1,success,172.23.85.35,11,12,12,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,4,2,success,172.23.85.35,13,12,12,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,4,3,success,172.23.85.35,12,12,12,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,5,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,5,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,5,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,6,1,success,154.54.45.158,161,61,12,Memphis,United States,US,USA,Washington,Tennessee,TN,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,6,2,success,154.54.45.158,12,61,12,Memphis,United States,US,USA,Washington,Tennessee,TN,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,6,3,success,154.54.45.158,11,61,12,Memphis,United States,US,USA,Washington,Tennessee,TN,,,America/Chicago,-0500,AS174,COGENT-174
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,7,1,success,154.54.10.210,12,15,12,Los Angeles,United States,US,USA,Washington,California,CA,,,America/Los_Angeles,-0700,AS174,COGENT-174
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,7,2,success,154.54.10.210,20,15,12,Los Angeles,United States,US,USA,Washington,California,CA,,,America/Los_Angeles,-0700,AS174,COGENT-174
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,7,3,success,154.54.10.210,12,15,12,Los Angeles,United States,US,USA,Washington,California,CA,,,America/Los_Angeles,-0700,AS174,COGENT-174
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,8,1,success,89.221.37.130,59,107,74,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,8,2,success,89.221.37.148,74,107,74,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,8,3,success,89.221.37.130,188,107,74,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,9,1,success,89.221.37.133,79,86,81,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,9,2,success,89.221.37.133,81,86,81,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,9,3,success,89.221.37.133,99,86,81,Rome,Italy,IT,ITA,Rome,Latium,62,,,Europe/Rome,+0200,AS6762,TELECOM ITALIA SPARKLE S.p.A.
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,10,1,success,200.0.16.23,103,162,146,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,10,2,success,200.0.16.23,237,162,146,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,10,3,success,200.0.16.23,146,162,146,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,11,1,success,200.0.16.27,83,106,83,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,11,2,success,200.0.16.27,155,106,83,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,11,3,success,200.0.16.31,81,106,83,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,12,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,12,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,12,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,13,1,success,152.206.237.128,242,169,169,Arroyo Naranjo,Cuba,CU,CUB,Havana,Havana,03,23.0439,-82.3712,America/Havana,-0400,AS27725,"Empresa de Telecomunicaciones de Cuba, S.A."
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,13,2,success,152.206.237.128,95,169,169,Arroyo Naranjo,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS27725,"Empresa de Telecomunicaciones de Cuba, S.A."
+192.168.200.37,152.206.237.128,42e7a0a5-f805-4af5-a6ba-80151c202270,13,3,timeout,,,169,169,,,,,,,,,,,,,

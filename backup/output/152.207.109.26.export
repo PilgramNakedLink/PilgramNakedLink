@@ -1,0 +1,82 @@
+source,destination,trace,ttl,query,query_result,addr,rtt,hop_mean_ms,hop_median_ms,city,country,country_code,country_code_iso3,country_capital,region,region_code,latitude,longitude,timezone,utc_offset,asn,org
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,1,1,success,192.168.200.1,2,2,2,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,1,2,success,192.168.200.1,2,2,2,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,1,3,success,192.168.200.1,2,2,2,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,2,1,success,10.180.128.1,16,16,16,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,2,2,success,10.180.128.1,13,16,16,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,2,3,success,10.180.128.1,20,16,16,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,3,1,success,209.196.186.0,27,20,20,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,3,2,success,209.196.186.0,12,20,20,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,3,3,success,209.196.186.0,20,20,20,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,4,1,success,172.23.85.35,13,12,12,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,4,2,success,209.196.185.252,12,12,12,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,4,3,success,172.23.85.35,11,12,12,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,5,1,success,209.196.185.153,13,43,13,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,5,2,success,209.196.185.153,13,43,13,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,5,3,success,209.196.185.108,102,43,13,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,6,1,success,62.115.169.84,14,15,14,Stockholm,Sweden,SE,SWE,Stockholm,Stockholm,,,,,,AS1299,Telia Company AB
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,6,2,success,62.115.169.84,17,15,14,Stockholm,Sweden,SE,SWE,Stockholm,Stockholm,,,,,,AS1299,Telia Company AB
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,6,3,success,62.115.169.84,13,15,14,Stockholm,Sweden,SE,SWE,Stockholm,Stockholm,,,,,,AS1299,Telia Company AB
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,7,1,success,62.115.40.211,32,20,17,Stockholm,Sweden,SE,SWE,Stockholm,Stockholm,,,,,,AS1299,Telia Company AB
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,7,2,success,62.115.40.211,17,20,17,Stockholm,Sweden,SE,SWE,Stockholm,Stockholm,,,,,,AS1299,Telia Company AB
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,7,3,success,62.115.40.211,11,20,17,Stockholm,Sweden,SE,SWE,Stockholm,Stockholm,,,,,,AS1299,Telia Company AB
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,8,1,success,69.79.100.23,12,25,15,North Miami Beach,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,8,2,success,69.79.102.27,15,25,15,North Miami Beach,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,8,3,success,69.79.100.23,48,25,15,North Miami Beach,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,9,1,success,63.245.3.47,46,47,48,North Miami Beach,United States,US,USA,Washington,Florida,FL,25.9442,-80.1406,America/New_York,-0400,AS23520,COLUMBUS-NETWORKS
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,9,2,success,63.245.3.47,48,47,48,North Miami Beach,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS23520,COLUMBUS-NETWORKS
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,9,3,success,63.245.3.47,48,47,48,North Miami Beach,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS23520,COLUMBUS-NETWORKS
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,10,1,success,200.0.16.17,45,115,51,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,10,2,success,200.0.16.17,247,115,51,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,10,3,success,200.0.16.17,51,115,51,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,11,1,success,200.0.16.23,50,58,54,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,11,2,success,200.0.16.23,54,58,54,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,11,3,success,200.0.16.23,68,58,54,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,12,1,success,200.0.16.31,49,69,52,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,12,2,success,200.0.16.31,106,69,52,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,12,3,success,200.0.16.31,52,69,52,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,13,1,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,13,2,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,13,3,timeout,,,,,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,14,1,success,152.207.109.26,274,175,175,Arroyo Naranjo,Cuba,CU,CUB,Havana,Havana,03,23.0439,-82.3712,America/Havana,-0400,AS27725,"Empresa de Telecomunicaciones de Cuba, S.A."
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,14,2,success,152.207.109.26,77,175,175,Arroyo Naranjo,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS27725,"Empresa de Telecomunicaciones de Cuba, S.A."
+192.168.200.37,152.207.109.26,630c4c39-8810-4f9b-83cf-f6bf925db638,14,3,timeout,,,175,175,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,1,1,success,192.168.200.1,3,3,2,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,1,2,success,192.168.200.1,2,3,2,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,1,3,success,192.168.200.1,2,3,2,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,2,1,success,10.180.128.1,11,12,12,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,2,2,success,10.180.128.1,13,12,12,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,2,3,success,10.180.128.1,12,12,12,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,3,1,timeout,,,72,72,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,3,2,success,209.196.186.0,132,72,72,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,3,3,success,209.196.186.0,12,72,72,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,4,1,success,172.23.85.35,15,14,15,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,4,2,success,172.23.85.35,12,14,15,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,4,3,success,209.196.185.252,16,14,15,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,5,1,success,209.196.185.108,12,13,14,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,5,2,success,209.196.185.108,14,13,14,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,5,3,success,209.196.185.108,14,13,14,Aiken,United States,US,USA,Washington,South Carolina,SC,,,America/New_York,-0400,AS11776,ATLANTICBB-JOHNSTOWN
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,6,1,success,62.115.169.84,14,13,14,Stockholm,Sweden,SE,SWE,Stockholm,Stockholm,,,,,,AS1299,Telia Company AB
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,6,2,success,62.115.169.84,11,13,14,Stockholm,Sweden,SE,SWE,Stockholm,Stockholm,,,,,,AS1299,Telia Company AB
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,6,3,success,62.115.169.84,15,13,14,Stockholm,Sweden,SE,SWE,Stockholm,Stockholm,,,,,,AS1299,Telia Company AB
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,7,1,success,62.115.40.209,51,60,51,Stockholm,Sweden,SE,SWE,Stockholm,Stockholm,,,,,,AS1299,Telia Company AB
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,7,2,success,62.115.40.211,35,60,51,Stockholm,Sweden,SE,SWE,Stockholm,Stockholm,,,,,,AS1299,Telia Company AB
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,7,3,success,62.115.40.211,95,60,51,Stockholm,Sweden,SE,SWE,Stockholm,Stockholm,,,,,,AS1299,Telia Company AB
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,8,1,success,69.79.100.23,13,21,13,North Miami Beach,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,8,2,success,69.79.100.23,13,21,13,North Miami Beach,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,8,3,success,69.79.102.27,38,21,13,North Miami Beach,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,9,1,success,63.245.3.47,49,47,46,North Miami Beach,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS23520,COLUMBUS-NETWORKS
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,9,2,success,63.245.3.47,46,47,46,North Miami Beach,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS23520,COLUMBUS-NETWORKS
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,9,3,success,63.245.3.47,46,47,46,North Miami Beach,United States,US,USA,Washington,Florida,FL,,,America/New_York,-0400,AS23520,COLUMBUS-NETWORKS
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,10,1,success,200.0.16.17,47,50,50,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,10,2,success,200.0.16.17,52,50,50,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,10,3,success,200.0.16.17,50,50,50,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,11,1,success,200.0.16.23,55,111,57,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,11,2,success,200.0.16.23,222,111,57,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,11,3,success,200.0.16.23,57,111,57,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,12,1,success,200.0.16.31,47,49,49,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,12,2,success,200.0.16.27,51,49,49,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,12,3,success,200.0.16.31,49,49,49,Havana,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS11960,EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,13,1,success,152.207.109.26,62,62,62,Arroyo Naranjo,Cuba,CU,CUB,Havana,Havana,03,,,America/Havana,-0400,AS27725,"Empresa de Telecomunicaciones de Cuba, S.A."
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,13,2,timeout,,,62,62,,,,,,,,,,,,,
+192.168.200.37,152.207.109.26,98cacb65-70c9-4546-8f89-c1f389963a4f,13,3,timeout,,,62,62,,,,,,,,,,,,,
